@@ -15,6 +15,10 @@ https://apivista.atlassian.net/browse/PSP2-xxxx
 
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-- [ ] I have tested/verified this change in DEV or UAT
-- [ ] I have demoed this change to team
-- [ ] I have updated any related documentation in PS Google Drive
+- [ ] Unit test passed - Unit Tests have passed and are accepted.
+- [ ] Functional tests passed - The solution works as intended from the user’s perspective.
+- [ ] Code reviewed - The code has been reviewed and accepted by another individual on the team. 
+- [ ] Acceptance criteria/Expected Behavior for each issue met - Each included acceptance criteria/expected behavior within the issue has been satisfied.
+- [ ] Non-functional requirements met - Any included non-functional requirements have been met, including documentation and case comments (runbooks, readme, etc).
+- [ ] Product owner/Relevant Parties accepts that the User Story has been solved - The user story has been demoed and the Product Owner has given signoff.
+- [ ] Deployed to prod - The passed, reviewed, and approved solution is now in its final state in production.
