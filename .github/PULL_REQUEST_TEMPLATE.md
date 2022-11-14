@@ -13,7 +13,7 @@ https://apivista.atlassian.net/browse/PSP2-xxxx
 * 🛠️ **Refactoring** - Structural code changes, dependency updates, deprecation cleanup, etc...
 * ⚙ **Infrastructure** - Build and deployment changes
 
-## Checklist
+## Definition of Done Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 - [ ] Unit test passed - Unit Tests have passed and are accepted.
 - [ ] Functional tests passed - The solution works as intended from the user’s perspective.
