@@ -15,7 +15,7 @@ https://apivista.atlassian.net/browse/PSP2-xxxx
 # Pre-deployment Checklist
 - [ ] Confirmed behavior in DEV and/or UAT
 - [ ] Demonstrated to team
-- [ ] Demonstarted to (or alerted) stakeholder
+- [ ] Demonstrated to (or alerted) stakeholder
 
 # Definition of Done
 <!--- The generic list is below, remove any that don't apply and add any that do. -->
